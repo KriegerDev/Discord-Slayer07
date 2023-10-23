@@ -1,4 +1,4 @@
-cd Slayer07 && npm i && npm run prepare
+cd Slayer07API && npm i && npm run prepare
 cd - > /dev/null
 
 find . -type d -name "*Worker*" | while read -r directory; do
