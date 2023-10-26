@@ -1,0 +1,23 @@
+[
+    {
+        "name": "worker",
+        "workerId": 0,
+        "clientToken": "000",
+        "clientId": "000",
+        "port": 8080
+    },
+    {
+        "name": "worker",
+        "workerId": 1,
+        "clientToken": "000",
+        "clientId": "000",
+        "port": 8081
+    },
+    {
+        "name": "worker",
+        "workerId": 2,
+        "clientToken": "000",
+        "clientId": "000",
+        "port": 8082
+    }
+]
