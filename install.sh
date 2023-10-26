@@ -1,7 +1,7 @@
 TOKEN=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
 
 echo "Downloading Slayer07 lib"
-curl -LJO --header "Authorization: token $TOKEN" --remote-name --location https://github.com/KriegerDev/Slayer07/archive/master.zip
+curl -LJO --header "Authorization: token $TOKEN" --remote-name --location https://github.com/KriegerDev/Slayer07API/archive/master.zip
 echo "Extracting Slayer07"
 unzip Slayer07API-master
 cp -r Slayer07API-master Slayer07API
