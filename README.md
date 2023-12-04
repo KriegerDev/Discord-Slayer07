@@ -65,3 +65,7 @@ cd Slayer07TrueWorker2 && npm run start
 
 > After that, go back to the initial module and have fun with module 2 - Commands, hehe
 ![Connect worker](assets/Screenshot_76.png)
+
+(Slayer07 API)[https://github.com/KriegerDev/Slayer07API]
+(Slayer07 Base Worker)[https://github.com/KriegerDev/Slayer07BaseWorker]
+(Slayer07 Base Controller)[https://github.com/KriegerDev/SlayerBaseController]
