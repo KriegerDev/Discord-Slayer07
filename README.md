@@ -34,9 +34,13 @@ Remember to copy the bots token!!, we will use them later
 > repeat the process with the other 2 bots.
 ATTENTION: Remember to change the port and workerId of the other bots, otherwise conflicts will occur.
 
-> After configuring our default.json, run install.sh
+> After configuring our default.json,
+```bash
+./install.sh
+cd Slayer07API && npm i
+```
 
-> After that, let's run the configuration script.
+> After that, go back to root dir n run the configuration script.
 ```py
 python3 config.py -cfg ./default.json -b
 ```
